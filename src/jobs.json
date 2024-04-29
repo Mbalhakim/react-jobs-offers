@@ -1,4 +1,6 @@
-[
+{
+
+  "jobs":[
     {
       "id": "1",
       "title": "Senior React Developer",
@@ -82,5 +84,78 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "7",
+      "title": "Front-End Engineer",
+      "type": "Contract",
+      "description": "We are looking for a skilled Front-End Engineer to join our team on a contract basis. The ideal candidate should have expertise in HTML, CSS, JavaScript, and React.js. This position is remote-friendly.",
+      "location": "Remote",
+      "salary": "$30K - $50K",
+      "company": {
+        "name": "TechWave Innovations",
+        "description": "TechWave Innovations is a dynamic startup focused on creating innovative software solutions. We offer a flexible and supportive work environment, encouraging creativity and professional growth.",
+        "contactEmail": "hr@techwave.com",
+        "contactPhone": "555-123-4567"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Full Stack Developer",
+      "type": "Full-Time",
+      "description": "We are hiring a Full Stack Developer to join our development team. The ideal candidate should have experience with both front-end and back-end technologies, including React.js, Node.js, and MongoDB.",
+      "location": "San Francisco, CA",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "CodeCrafters Inc.",
+        "description": "CodeCrafters Inc. is a leading software development company specializing in cutting-edge web and mobile applications. We offer competitive salaries, excellent benefits, and opportunities for career advancement.",
+        "contactEmail": "careers@codecrafters.com",
+        "contactPhone": "555-987-6543"
+      }
+    },
+    {
+      "id": "9",
+      "title": "UI/UX Designer",
+      "type": "Part-Time",
+      "description": "We are seeking a talented UI/UX Designer to join our design team part-time. The ideal candidate should have a strong portfolio showcasing their design skills and proficiency in tools such as Sketch or Adobe XD.",
+      "location": "Chicago, IL",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "DesignWorks Co.",
+        "description": "DesignWorks Co. is a design agency specializing in user-centered design solutions. We believe in the power of design to solve complex problems and enhance user experiences.",
+        "contactEmail": "info@designworks.co",
+        "contactPhone": "555-789-0123"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Software Engineer",
+      "type": "Full-Time",
+      "description": "We are looking for a passionate Software Engineer to join our team in Seattle, WA. The ideal candidate should have strong programming skills and experience with JavaScript, React.js, and Node.js.",
+      "location": "Seattle, WA",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "TechSavvy Solutions",
+        "description": "TechSavvy Solutions is a software development company specializing in innovative solutions for businesses. We offer a collaborative work environment, competitive salaries, and opportunities for growth.",
+        "contactEmail": "jobs@techsavvy.com",
+        "contactPhone": "555-246-8013"
+      }
+    },
+    {
+      "id": "11",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a skilled React Native Developer to join our mobile development team. The ideal candidate should have experience building cross-platform mobile applications using React Native.",
+      "location": "Austin, TX",
+      "salary": "$75K - $85K",
+      "company": {
+        "name": "MobileTech Innovations",
+        "description": "MobileTech Innovations is a startup focused on developing cutting-edge mobile applications. We offer a dynamic work environment, competitive salaries, and opportunities for career advancement.",
+        "contactEmail": "careers@mobiletech.com",
+        "contactPhone": "555-135-7924"
+      }
     }
   ]
+
+
+}
