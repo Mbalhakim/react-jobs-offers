@@ -29,7 +29,9 @@ const HomeCards = () => {
                </Card>
             </div>
         </div>
-    </section></>
+    </section>
+
+    </>
   )
 }
 
